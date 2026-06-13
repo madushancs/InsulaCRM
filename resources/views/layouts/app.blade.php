@@ -12,14 +12,13 @@
     <style>
 
         :root {
-    --tblr-primary: #1B2A4A;
-    --tblr-primary-rgb: 27, 42, 74;
-    --tblr-primary-fg: #ffffff;
+        --tblr-primary: #1B2A4A;
+        --tblr-primary-rgb: 27, 42, 74;
+        --tblr-primary-fg: #ffffff;
 
-    /* Gold accent */
-    --tblr-accent: #C9A84C;
-    --tblr-link-color: #C9A84C;
-    --tblr-link-hover-color: #b8943f;
+        --tblr-accent: #C9A84C;
+        --tblr-link-color: #C9A84C;
+        --tblr-link-hover-color: #b8943f;
         }
 
         .navbar-vertical,
@@ -44,9 +43,9 @@
             border-color: #C9A84C !important;
         }
 
-        .page-header {
+        /* .page-header {
             border-bottom: 2px solid #C9A84C;
-        }
+        } */
 
 
         .navbar-vertical { scrollbar-width: none; }
