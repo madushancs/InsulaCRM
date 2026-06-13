@@ -133,7 +133,7 @@
                         @if($tenantLogo)
                             <img src="{{ asset('storage/' . $tenantLogo) }}" alt="{{ config('app.name') }}" style="max-height: 56px; max-width: 220px;">
                         @else
-                            <img src="{{ asset('images/logo-white.png') }}" alt="{{ config('app.name') }}" style="max-height: 84px; max-width: 330px;">
+                            <img src="{{ asset('images/logo.jpg') }}" alt="{{ config('app.name') }}" style="max-height: 84px; max-width: 330px;">
                         @endif
                     </a>
                 </h1>
