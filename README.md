@@ -617,7 +617,7 @@ insulacrm/
 ├── lang/                      # JSON translation files (en, nl, de, fr, es, pt, it)
 ├── plugins/                   # Plugin installation directory
 │   └── hello-world/           # Sample plugin
-├── public/images/             # Logo variants (logo.png, logo-white.png, favicon.png)
+├── public/images/             # Logo variants (logo.jpg, logo-white.png, favicon.png)
 ├── resources/views/
 │   ├── components/dashboard/  # Standalone dashboard widget components
 │   ├── dashboard/             # Role-specific dashboard views
